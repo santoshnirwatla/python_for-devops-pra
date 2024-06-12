@@ -1,0 +1,2 @@
+import newcalc
+newcalc.add
